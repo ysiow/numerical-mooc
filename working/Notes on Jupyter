@@ -1,0 +1,6 @@
+Instruction 
+	https://ipython.org/ipython-doc/3/notebook/notebook.html 
+Plotting with Matplotlib example notebook 
+	http://nbviewer.jupyter.org/github/ipython/ipython/blob/1.x/examples/notebooks/Part%203%20-%20Plotting%20with%20Matplotlib.ipynb 
+To make matplotlib inline by default in Jupyter 
+	%matplotlib inline
